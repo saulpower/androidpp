@@ -23,7 +23,7 @@ If you open a terminal window and move to the android sample project home direct
 When creating your own project I would suggest setting it up in the same way we have it here as the code in the iOS sample project is shared with the Android project.  The only thing that is really duplicated is resource files (everything in the res directory)
 
 #Contributing
-If you are interested in contributing to the project please contact me (saul.howard@moneydesktop.com) or just check the issue list.  The issue list is organized in the following way:
+If you are interested in contributing to the project please contact me (saulpower1@gmail.com) or just check the issue list.  The issue list is organized in the following way:
 
 ###Milestones
 Milestones represent a feature or group of work to support a particular class. Within each milestone I have tagged each issue with a **level** tag.
